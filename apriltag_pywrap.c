@@ -18,6 +18,7 @@
 #include "tagCircle21h7.h"
 #include "tagCircle49h12.h"
 #include "tagCustom48h12.h"
+#include "tagLandmark36h11.h"
 #include "tagStandard41h12.h"
 #include "tagStandard52h13.h"
 #include "aruco/tagAruco4x4_50.h"
@@ -49,6 +50,7 @@
     _(tagStandard41h12)                     \
     _(tagStandard52h13)                     \
     _(tagCustom48h12)                       \
+    _(tagLandmark36h11)                     \
     _(tagAruco4x4_50)                       \
     _(tagAruco4x4_100)                      \
     _(tagAruco4x4_250)                      \
